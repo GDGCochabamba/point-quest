@@ -1,0 +1,13 @@
+.pointsBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    height: 80%;
+    width: 210px;
+    border-radius: 50px;
+    background-color: rgba(83, 150, 221, 1);
+
+    margin-left: 10px;
+    padding-right: 20px;
+}

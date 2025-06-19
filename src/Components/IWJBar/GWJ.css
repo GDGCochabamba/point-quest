@@ -1,0 +1,15 @@
+.gwjBar {
+    height: 80%;
+    width: fit-content;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50px;
+    margin-right: 10px;
+    background-color: rgba(83, 150, 221, 1);
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+}
